@@ -1,0 +1,8 @@
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\bin\Debug\AppSmartLocker.exe.config
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\bin\Debug\AppSmartLocker.exe
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\bin\Debug\AppSmartLocker.pdb
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\obj\Debug\AppSmartLocker.csprojAssemblyReference.cache
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\obj\Debug\AppSmartLocker.Properties.Resources.resources
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\obj\Debug\AppSmartLocker.csproj.GenerateResource.cache
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\obj\Debug\AppSmartLocker.exe
+C:\Users\Vsilv\source\repos\AppSmartLocker\AppSmartLocker\obj\Debug\AppSmartLocker.pdb
